@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #fff;
+
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+
+}
+
+main{
+  height: 100vh;
+  width: 100%;
+  background-color: #111;
+  padding: 20px;
+  top: 50vh;
+  left: 50vw;
+}
+
+.fly{
+  height: 10rem;
+  width: 10rem;
+  
+}
+
+.btn{
+  border: none;
+  background-color:transparent;
+ 
+  
+
+}
