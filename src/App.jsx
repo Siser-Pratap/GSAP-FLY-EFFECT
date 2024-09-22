@@ -24,7 +24,7 @@ const App = () => {
       duration:0.4,
       delay:0,
     })
-  }, [randomX, randomY, rotate])
+  },{scope:'main', dependencies:[randomX, randomY, rotate]})
 
 
 
